@@ -13,6 +13,7 @@ The app developed for the first part of the assignment is available at:
 <https://fauziah.shinyapps.io/CourseProject/>
 
 Source code for ui.R and server.R files are available on the GitHub:
+<https://github.com/fauziah31/CourseProjectSubmit2>
 
 ------------------------------------------------------------------------
 
@@ -68,5 +69,3 @@ Scatter plot on the relationship between price and carat variables also
 have been done as below:
 
 ![](Course_Project_Presentation_Submit_files/figure-markdown_strict/unnamed-chunk-2-1.png)<!-- -->
-
-------------------------------------------------------------------------
